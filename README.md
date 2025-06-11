@@ -106,3 +106,6 @@ Output	5	Softmax	–
 - 🧪 Apply data augmentation for robustness.
 
 - 🌐 Deploy as a lightweight web or mobile app.
+
+## Author
+- **Kainat Umar** - *Developer of this `Coins_Classification_Model` using MLP.*
